@@ -1,0 +1,44 @@
+body{
+vertical-align: middle;
+    text-align: center;
+    justify-content: center;
+    text-align: center;
+    display: flex;
+}
+.container{
+    margin-top: 100px;
+    border: 1px solid white;
+
+
+}
+button{
+    border: 1px solid white;
+    width: 200px;
+}
+.first{
+    text-align: center;
+}
+.second{
+    margin: 5px;
+    text-align: center;
+    
+}
+.heading{
+    size: 100px;
+    color: white;
+    border: none;
+}
+h1{
+    border: 1px solid white;
+    margin-top: 5px;
+    padding-top: 5px;
+    height: 100px;
+    text-align: center;
+    color: white;
+    background-color:#343a40;
+    display: inline-block;
+    width: 200px;
+}
+h2{
+    color: white;
+}
